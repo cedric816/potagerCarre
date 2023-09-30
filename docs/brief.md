@@ -1,15 +1,15 @@
-#OBJECTIFS
+# OBJECTIFS
 - développer une application web permettant de tenir un journal de bord de ses potagers en carré 
 et de le partager avec d'autres jardiniers
 
-#FONCTIONNALITES POUR UNE V1
+# FONCTIONNALITES POUR UNE V1
 
-##Partie VITRINE
+## Partie VITRINE
 - page d'accueil présentant l'application
 - page expliquant la technique du potager en carré
 - page de connexion/mdp oublié/inscription
 
-##Partie APP
+## Partie APP
 - visualiser tous ses carrés potager 
 - supprimer un carré
 - créer un carré (un carré est composé de cases)
